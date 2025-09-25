@@ -1,6 +1,6 @@
 <img width="1911" height="939" alt="image" src="https://github.com/user-attachments/assets/8eb927af-b446-4275-818f-55bd34492269" />
+<img width="1878" height="864" alt="image" src="https://github.com/user-attachments/assets/75059118-b5fe-4021-96c2-d2fd5113a2e3" />
 
-<img width="1746" height="911" alt="image" src="https://github.com/user-attachments/assets/83eba027-286b-4a72-be50-84bbb4fafa58" />
 
 # Password Manager Web Application
 
