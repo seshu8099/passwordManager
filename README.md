@@ -11,13 +11,13 @@ This project is a secure full-stack password manager application built with the 
 
 ## Features
 
--   Secure User Authentication:** Implemented with JSON Web Tokens (JWT) and `bcrypt.js` for password hashing, ensuring secure user registration and login.
--   AES-256 Encryption:** All user passwords are encrypted using AES-256-CBC with Node.js's built-in `crypto` module before being stored in the database, providing a high level of data security.
--   CRUD Operations:** Users can seamlessly Create, Read, Update, and Delete their stored passwords.
--   User-Specific Data Management:** Each user has a private and isolated vault, ensuring only they can access their stored credentials.
--   Robust Password Strength Validation:** Frontend utility to guide users in creating strong, complex passwords.
--   Password Breach check:** Utilizes the "Have I Been Pwned" API to check if a user's password has appeared in known data breaches, adding an extra layer of security awareness.
--   Modern & Responsive UI:** Developed with React.js, styled using Tailwind CSS, and enhanced with Material UI components for a clean, intuitive, and mobile-friendly user experience.
+-   **Secure User Authentication:** Implemented with JSON Web Tokens (JWT) and `bcrypt.js` for password hashing, ensuring secure user registration and login.
+-   **AES-256 Encryption :** All user passwords are encrypted using AES-256-CBC with Node.js's built-in `crypto` module before being stored in the database, providing a high level of data security.
+-   **CRUD Operations :** Users can seamlessly Create, Read, Update, and Delete their stored passwords.
+-   **User-Specific Data Management :** Each user has a private and isolated vault, ensuring only they can access their stored credentials.
+-   **Robust Password Strength Validation :** Frontend utility to guide users in creating strong, complex passwords.
+-   **Password Breach check :** Utilizes the "Have I Been Pwned" API to check if a user's password has appeared in known data breaches, adding an extra layer of security awareness.
+-   **Modern & Responsive UI :** Developed with React.js, styled using Tailwind CSS, and enhanced with Material UI components for a clean, intuitive, and mobile-friendly user experience.
 
 ## Tech Stack
 
