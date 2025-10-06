@@ -1,6 +1,8 @@
-<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/6edf6190-2912-483c-ac35-1f7960d30634" />
+<img width="1916" height="947" alt="image" src="https://github.com/user-attachments/assets/7c4b033d-3961-41f2-8e90-f1a0ffc47f54" />
 
-<img width="1917" height="1039" alt="image" src="https://github.com/user-attachments/assets/cb4f268c-5520-44f1-8816-ad85b5dbd81b" />
+
+<img width="1911" height="985" alt="image" src="https://github.com/user-attachments/assets/f2e1da7b-8893-4636-b866-a99315eb6fbd" />
+
 
 
 # Secure MERN Stack Password Manager
