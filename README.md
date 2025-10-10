@@ -1,3 +1,4 @@
+deployed link:https://frontend-ten-eta-41.vercel.app/
 <img width="1916" height="947" alt="image" src="https://github.com/user-attachments/assets/7c4b033d-3961-41f2-8e90-f1a0ffc47f54" />
 
 
